@@ -8,7 +8,7 @@
     - 별명 : 오맹
     - 성격 : 활발하다.
     - 사진 
-          ![Alt text](C:\Users\student\Pictures\test/oh.png)
+          ![Alt text](C:\Users\student\Pictures\test\oh.png)
 3. 류정관 
     - 별명 : 정관장
     - 성격 : 어리버리하다
