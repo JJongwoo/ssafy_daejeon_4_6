@@ -5,7 +5,7 @@
     - 별명 : 고구마
     - 성격 : 긍정적이다
     - 사진 
-          ![Koo](ssafy_daejeon_4_6/img/koo.jpg)
+          ![Koo](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/koo.png)
           
         
       
