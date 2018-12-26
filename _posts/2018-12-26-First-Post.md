@@ -1,5 +1,5 @@
 ---
-title: [1주차 Reflection] Design Thinking 방법론
+title: 1주차 Reflection Design Thinking 방법론
 ---
 |  <center>단계</center> |  <center>정의</center> |  <center>활용 Tool</center> |
 |:--------|:--------:|:--------|
