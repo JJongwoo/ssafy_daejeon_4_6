@@ -4,16 +4,20 @@
     - 성격 : 긍정적이다
     - 사진 : 
             ![KOO](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/koo.jpg)
+    
     - 연말 계획 : 가족들과 여행 계획
 2. 오명현 
     - 별명 : 오맹
     - 성격 : 활발하다.
     - 사진 
             ![OH](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/oh.png)
+    
     - 연말 계획 : 친구들과 송.망년회 계획중
 3. 류정관 
     - 별명 : 정관장
     - 성격 : 어리버리하다
     - 사진 
             ![RYU](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/ryu.jpg)
+    
+    
     -연말 계획 : 토스 공부하기
