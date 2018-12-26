@@ -1,5 +1,5 @@
 ---
-title: SSAFY Start Camp 챗봇 퀘스트
+title: 2주차 SSAFY Start Camp 챗봇 퀘스트
 ---
 
 # 스펙(Specification)
