@@ -5,7 +5,7 @@
     - 별명 : 고구마
     - 성격 : 긍정적이다
     - 사진 
-           <img src = "https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/koo.jpg" width = "220" height ="300" >
+          ![Koo](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/koo.jpg)
     
     - 연말 계획 : 가족들과 여행 계획
     
@@ -14,7 +14,7 @@
     - 별명 : 오맹
     - 성격 : 활발하다.
     - 사진 
-            <img src = "https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/oh.png" width = "220" height = "300">
+            ![Oh](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/oh.png)
     
     - 연말 계획 : 친구들과 송.망년회 계획중
     
@@ -23,6 +23,6 @@
     - 별명 : 정관장
     - 성격 : 어리버리하다
     - 사진 
-            <img src = "https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/ryu.jpg" width = "220" height = "300">
+            ![Ryu](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/ryu.jpg" width = "220" height = "300")
     
     -연말 계획 : 토스 공부하기
