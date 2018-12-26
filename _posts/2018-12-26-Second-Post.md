@@ -13,4 +13,4 @@ title: 1주차 Reflection Design Thinking 방법론
 |**시제품 제작(Prototype)** | <center>도출된 아이디어를 직관적으로 이해하고 경험하도록 하는 시제품을 제작하는 단계</center> |1.Justinmind:<br>웹 사이트 및 모바일 앱 제작을 위한 와이어프레임 프로토타이핑 툴|
 | | <center><center> |2.Balsamiq:<br>웹, 모바일 기획과 스토리 보드 작업이 가능한 프로토타이핑 툴|
 | | <center><center> |3.Adobe XD:<br>웹 사이트, 모바일 앱, 음성 인터랙션, 터치스트린 등 사용자 경험기반 프로토타입 디자인 툴|
-|**테스트(Test)** | <center>제작된 시제품을 테스트하는 단계</center> |*cell 3x3* |
+|**테스트(Test)** | <center>제작된 시제품을 테스트하는 단계</center> | |
