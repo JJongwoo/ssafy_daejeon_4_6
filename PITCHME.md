@@ -23,6 +23,6 @@
     - 별명 : 정관장
     - 성격 : 어리버리하다
     - 사진 
-            ![Ryu](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/ryu.jpg" width = "220" height = "300")
+            ![Ryu](https://github.com/quickview/ssafy_daejeon_4_6/blob/master/img/ryu.jpg)
     
     -연말 계획 : 토스 공부하기
